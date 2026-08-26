@@ -1,4 +1,5 @@
 <!-- TITLE: ClassIsPlugin 正式开通公众号 -->
+<!-- AUTHOR: lrs2187 -->
 
 本公众号为 ClassIsPlugin 组织自营，不代表 ClassIsland 或 HelloWRC 等官方的见解。
 

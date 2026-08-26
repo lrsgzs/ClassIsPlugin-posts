@@ -22,6 +22,15 @@
 - `assets`文件夹 (可选)：存放资源文件，文件名应尽量清晰。
 - `assets/banner.png` (可选)：封面图片文件。
 
+### CONTENT.md 结构
+
+```markdown
+<!-- TITLE: 标题，使用简体中文 -->
+<!-- AUTHOR: 作者名称 -->
+
+正文
+```
+
 ## 贡献
 
 您应直接贡献 markdown 内容和资源文件。可以直接在 <https://vuemd.lrsgzs.top/> 预览 markdown 渲染结果。
