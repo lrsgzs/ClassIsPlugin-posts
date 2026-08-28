@@ -1,10 +1,6 @@
 <!-- TITLE: 把自动化变成搭积木 —— SuperAutoIsland -->
 <!-- AUTHOR: lrs2187 -->
 
-# 把自动化变成搭积木 —— SuperAutoIsland
-
-编者：lrs2187
-
 > 这个插件说实话挺好玩的，自动化能上一个台阶。
 
 ## 前言
@@ -174,7 +170,7 @@ _因为，我们本就是一个人啊..._
 
 ### 鸣谢
 
-本次文章封面由 LiPolymer 绘制。字体使用 MiSans、阿里妈妈数黑体。
+本次文章封面由 LiPolymer 和 lrs2187 绘制。字体使用 MiSans、阿里妈妈数黑体。
 
 > **CC BY-SA**
 >
