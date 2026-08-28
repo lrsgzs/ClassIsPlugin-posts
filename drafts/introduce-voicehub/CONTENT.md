@@ -60,7 +60,7 @@ VoiceHub 跑起来之后，点歌和排期都能正常运转了。
 在设置里开启「启用歌词显示」后，组件不再只是罗列歌单，
 而是跟着广播的进度，实时显示**正在播放的那一句歌词**：
 
-![歌词显示效果](./assets/lyric-display.mp4)
+<video src="./assets/lyric-display.mp4" controls muted loop></video>
 
 ```
 ♪ #3 歌手 - 歌曲 | 正在唱的这句歌词 / 翻译
